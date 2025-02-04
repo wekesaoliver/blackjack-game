@@ -1,4 +1,4 @@
-The above projects utilizes knowledge in:
+The above projects utilizes javascript knowledge in:
 - arrays
 - objects
 - Booleans
